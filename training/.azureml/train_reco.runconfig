@@ -25,7 +25,7 @@ history:
 dataReferences:
   workspaceblobstore:
     dataStoreName: workspaceblobstore
-    pathOnDataStore: recos
+    pathOnDataStore: trainset
     mode: download
     overwrite: true
     pathOnCompute: 
